@@ -1,0 +1,8 @@
+{
+  "name": "My Tabs App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "5b0b49b2"
+}
