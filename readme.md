@@ -4,8 +4,12 @@
 
 - Android Studio
 - An Android 8.1 emulator
+- npm
+- node
 
 ## Build the project
+
+`npm i`
 
 `npm run android`
 
