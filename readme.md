@@ -9,6 +9,8 @@
 
 ## Build the project
 
+`npm install -g @ionic/cli@latest`
+
 `npm i`
 
 `npm run android`
