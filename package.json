@@ -7,7 +7,8 @@
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "test:e2e": "vue-cli-service test:e2e",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "android": "npm run build && ionic capacitor add android && ionic capacitor copy android && ionic capacitor open android"
   },
   "dependencies": {
     "@capacitor/app": "1.1.1",
